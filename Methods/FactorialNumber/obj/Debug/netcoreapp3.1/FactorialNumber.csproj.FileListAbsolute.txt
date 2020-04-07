@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\bin\Debug\netcoreapp3.1\FactorialNumber.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\FactorialNumber\obj\Debug\netcoreapp3.1\FactorialNumber.pdb

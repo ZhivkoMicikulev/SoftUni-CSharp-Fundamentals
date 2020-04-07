@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb

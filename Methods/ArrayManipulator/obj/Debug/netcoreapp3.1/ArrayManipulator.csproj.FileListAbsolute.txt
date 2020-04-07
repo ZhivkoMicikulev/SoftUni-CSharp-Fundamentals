@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.pdb

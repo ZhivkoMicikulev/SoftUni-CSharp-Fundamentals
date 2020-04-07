@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\bin\Debug\netcoreapp3.1\Vowels.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\bin\Debug\netcoreapp3.1\Vowels.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\bin\Debug\netcoreapp3.1\Vowels.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\bin\Debug\netcoreapp3.1\Vowels.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\bin\Debug\netcoreapp3.1\Vowels.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\bin\Debug\netcoreapp3.1\Vowels.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\obj\Debug\netcoreapp3.1\Vowels.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\obj\Debug\netcoreapp3.1\Vowels.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\obj\Debug\netcoreapp3.1\Vowels.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\obj\Debug\netcoreapp3.1\Vowels.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\Vowels\obj\Debug\netcoreapp3.1\Vowels.pdb

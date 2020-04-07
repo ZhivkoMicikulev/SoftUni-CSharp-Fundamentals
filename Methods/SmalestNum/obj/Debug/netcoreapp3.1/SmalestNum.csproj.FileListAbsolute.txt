@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\bin\Debug\netcoreapp3.1\SmalestNum.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\bin\Debug\netcoreapp3.1\SmalestNum.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\bin\Debug\netcoreapp3.1\SmalestNum.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\bin\Debug\netcoreapp3.1\SmalestNum.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\bin\Debug\netcoreapp3.1\SmalestNum.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\bin\Debug\netcoreapp3.1\SmalestNum.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\obj\Debug\netcoreapp3.1\SmalestNum.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\obj\Debug\netcoreapp3.1\SmalestNum.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\obj\Debug\netcoreapp3.1\SmalestNum.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\obj\Debug\netcoreapp3.1\SmalestNum.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\SmalestNum\obj\Debug\netcoreapp3.1\SmalestNum.pdb

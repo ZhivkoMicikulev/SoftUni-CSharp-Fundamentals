@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\obj\Debug\netcoreapp3.1\MidleChars.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\obj\Debug\netcoreapp3.1\MidleChars.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\bin\Debug\netcoreapp3.1\MidleChars.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\bin\Debug\netcoreapp3.1\MidleChars.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\bin\Debug\netcoreapp3.1\MidleChars.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\bin\Debug\netcoreapp3.1\MidleChars.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\bin\Debug\netcoreapp3.1\MidleChars.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\bin\Debug\netcoreapp3.1\MidleChars.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\obj\Debug\netcoreapp3.1\MidleChars.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Methods\Methods\MidleChars\obj\Debug\netcoreapp3.1\MidleChars.pdb
