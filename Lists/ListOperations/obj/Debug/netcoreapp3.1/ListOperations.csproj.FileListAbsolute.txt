@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.pdb

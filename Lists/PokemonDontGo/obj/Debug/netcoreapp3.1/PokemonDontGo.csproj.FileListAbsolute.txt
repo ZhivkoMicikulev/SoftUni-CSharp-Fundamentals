@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\bin\Debug\netcoreapp3.1\PokemonDontGo.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\PokemonDontGo\obj\Debug\netcoreapp3.1\PokemonDontGo.pdb

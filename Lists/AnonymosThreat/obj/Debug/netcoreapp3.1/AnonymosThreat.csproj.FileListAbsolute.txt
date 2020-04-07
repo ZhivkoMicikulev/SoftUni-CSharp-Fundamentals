@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\bin\Debug\netcoreapp3.1\AnonymosThreat.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\bin\Debug\netcoreapp3.1\AnonymosThreat.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\bin\Debug\netcoreapp3.1\AnonymosThreat.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\bin\Debug\netcoreapp3.1\AnonymosThreat.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\bin\Debug\netcoreapp3.1\AnonymosThreat.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\bin\Debug\netcoreapp3.1\AnonymosThreat.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\obj\Debug\netcoreapp3.1\AnonymosThreat.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\obj\Debug\netcoreapp3.1\AnonymosThreat.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\obj\Debug\netcoreapp3.1\AnonymosThreat.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\obj\Debug\netcoreapp3.1\AnonymosThreat.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\AnonymosThreat\obj\Debug\netcoreapp3.1\AnonymosThreat.csprojAssemblyReference.cache

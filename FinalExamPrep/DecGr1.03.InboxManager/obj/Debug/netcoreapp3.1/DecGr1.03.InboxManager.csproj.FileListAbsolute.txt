@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\bin\Debug\netcoreapp3.1\DecGr1.03.InboxManager.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\bin\Debug\netcoreapp3.1\DecGr1.03.InboxManager.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\bin\Debug\netcoreapp3.1\DecGr1.03.InboxManager.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\bin\Debug\netcoreapp3.1\DecGr1.03.InboxManager.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\bin\Debug\netcoreapp3.1\DecGr1.03.InboxManager.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\bin\Debug\netcoreapp3.1\DecGr1.03.InboxManager.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\obj\Debug\netcoreapp3.1\DecGr1.03.InboxManager.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\obj\Debug\netcoreapp3.1\DecGr1.03.InboxManager.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\obj\Debug\netcoreapp3.1\DecGr1.03.InboxManager.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\obj\Debug\netcoreapp3.1\DecGr1.03.InboxManager.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.03.InboxManager\obj\Debug\netcoreapp3.1\DecGr1.03.InboxManager.pdb

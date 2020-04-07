@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\bin\Debug\netcoreapp3.1\Train.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\bin\Debug\netcoreapp3.1\Train.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\bin\Debug\netcoreapp3.1\Train.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\bin\Debug\netcoreapp3.1\Train.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\obj\Debug\netcoreapp3.1\Train.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\obj\Debug\netcoreapp3.1\Train.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Lists\Lists\Demo\obj\Debug\netcoreapp3.1\Train.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\bin\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\bin\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\bin\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\bin\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\bin\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\bin\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\obj\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\obj\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\obj\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\obj\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.02.MessageTranslator\obj\Debug\netcoreapp3.1\DecRe.02.MessageTranslator.pdb

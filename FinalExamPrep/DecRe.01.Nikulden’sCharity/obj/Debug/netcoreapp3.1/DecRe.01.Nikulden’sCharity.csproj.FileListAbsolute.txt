@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\bin\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\bin\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\bin\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\bin\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\bin\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\bin\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\obj\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\obj\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\obj\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\obj\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecRe.01.Nikulden’sCharity\obj\Debug\netcoreapp3.1\DecRe.01.Nikulden’sCharity.pdb
