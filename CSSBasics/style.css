@@ -1,0 +1,43 @@
+p {
+    color: blueviolet;
+    font-size: 24px;
+}
+
+h1 {
+    color: crimson;
+}
+
+.loremShort {
+    font-style: italic;
+    font-size: 18px;
+    color: rgb(0, 20, 77);
+}
+
+#lorem1 {
+    background-color: burlywood;
+}
+
+span {
+    font-weight: bold;
+    color: darkorange;
+}
+
+#list {
+    list-style: none;
+}
+
+#list li {
+    display: inline;
+}
+
+#list a {
+    text-decoration: none;
+    color: grey;
+    padding: 15px;
+    background-color: hotpink;
+    border-radius: 10px;
+}
+
+#list a:hover {
+    text-decoration: underline;
+}
