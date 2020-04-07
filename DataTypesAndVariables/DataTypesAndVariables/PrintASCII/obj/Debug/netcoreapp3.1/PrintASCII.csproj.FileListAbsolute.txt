@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\bin\Debug\netcoreapp3.1\PrintASCII.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\bin\Debug\netcoreapp3.1\PrintASCII.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\bin\Debug\netcoreapp3.1\PrintASCII.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\bin\Debug\netcoreapp3.1\PrintASCII.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\bin\Debug\netcoreapp3.1\PrintASCII.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\bin\Debug\netcoreapp3.1\PrintASCII.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\obj\Debug\netcoreapp3.1\PrintASCII.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\obj\Debug\netcoreapp3.1\PrintASCII.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\obj\Debug\netcoreapp3.1\PrintASCII.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\PrintASCII\obj\Debug\netcoreapp3.1\PrintASCII.pdb

@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\bin\Debug\netcoreapp3.1\WaterOverFlow.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\bin\Debug\netcoreapp3.1\WaterOverFlow.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\bin\Debug\netcoreapp3.1\WaterOverFlow.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\bin\Debug\netcoreapp3.1\WaterOverFlow.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\bin\Debug\netcoreapp3.1\WaterOverFlow.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\bin\Debug\netcoreapp3.1\WaterOverFlow.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\obj\Debug\netcoreapp3.1\WaterOverFlow.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\obj\Debug\netcoreapp3.1\WaterOverFlow.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\obj\Debug\netcoreapp3.1\WaterOverFlow.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\WaterOverFlow\obj\Debug\netcoreapp3.1\WaterOverFlow.pdb

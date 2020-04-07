@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\bin\Debug\netcoreapp3.1\SumChar.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\bin\Debug\netcoreapp3.1\SumChar.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\bin\Debug\netcoreapp3.1\SumChar.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\bin\Debug\netcoreapp3.1\SumChar.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\bin\Debug\netcoreapp3.1\SumChar.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\bin\Debug\netcoreapp3.1\SumChar.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\obj\Debug\netcoreapp3.1\SumChar.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\obj\Debug\netcoreapp3.1\SumChar.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\obj\Debug\netcoreapp3.1\SumChar.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\SumChar\obj\Debug\netcoreapp3.1\SumChar.pdb

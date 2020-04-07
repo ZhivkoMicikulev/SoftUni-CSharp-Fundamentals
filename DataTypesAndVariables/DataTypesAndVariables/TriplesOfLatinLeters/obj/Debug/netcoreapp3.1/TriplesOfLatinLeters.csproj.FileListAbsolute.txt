@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\bin\Debug\netcoreapp3.1\TriplesOfLatinLeters.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\bin\Debug\netcoreapp3.1\TriplesOfLatinLeters.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\bin\Debug\netcoreapp3.1\TriplesOfLatinLeters.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\bin\Debug\netcoreapp3.1\TriplesOfLatinLeters.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\bin\Debug\netcoreapp3.1\TriplesOfLatinLeters.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\bin\Debug\netcoreapp3.1\TriplesOfLatinLeters.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\obj\Debug\netcoreapp3.1\TriplesOfLatinLeters.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\obj\Debug\netcoreapp3.1\TriplesOfLatinLeters.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\obj\Debug\netcoreapp3.1\TriplesOfLatinLeters.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\TriplesOfLatinLeters\obj\Debug\netcoreapp3.1\TriplesOfLatinLeters.pdb

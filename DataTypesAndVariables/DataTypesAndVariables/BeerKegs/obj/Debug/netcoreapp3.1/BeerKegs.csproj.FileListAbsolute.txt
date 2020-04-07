@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\bin\Debug\netcoreapp3.1\BeerKegs.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\DataTypesAndVariables\DataTypesAndVariables\BeerKegs\obj\Debug\netcoreapp3.1\BeerKegs.pdb
