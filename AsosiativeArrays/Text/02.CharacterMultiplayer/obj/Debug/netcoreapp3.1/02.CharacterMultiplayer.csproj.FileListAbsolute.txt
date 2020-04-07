@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\bin\Debug\netcoreapp3.1\02.CharacterMultiplayer.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\bin\Debug\netcoreapp3.1\02.CharacterMultiplayer.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\bin\Debug\netcoreapp3.1\02.CharacterMultiplayer.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\bin\Debug\netcoreapp3.1\02.CharacterMultiplayer.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\bin\Debug\netcoreapp3.1\02.CharacterMultiplayer.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\bin\Debug\netcoreapp3.1\02.CharacterMultiplayer.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\obj\Debug\netcoreapp3.1\02.CharacterMultiplayer.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\obj\Debug\netcoreapp3.1\02.CharacterMultiplayer.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\obj\Debug\netcoreapp3.1\02.CharacterMultiplayer.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\obj\Debug\netcoreapp3.1\02.CharacterMultiplayer.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\02.CharacterMultiplayer\obj\Debug\netcoreapp3.1\02.CharacterMultiplayer.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\bin\Debug\netcoreapp3.1\08.CompanyUsers.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\08.CompanyUsers\obj\Debug\netcoreapp3.1\08.CompanyUsers.pdb

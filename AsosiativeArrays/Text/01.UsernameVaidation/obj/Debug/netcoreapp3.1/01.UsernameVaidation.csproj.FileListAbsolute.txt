@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\bin\Debug\netcoreapp3.1\01.UsernameVaidation.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\bin\Debug\netcoreapp3.1\01.UsernameVaidation.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\bin\Debug\netcoreapp3.1\01.UsernameVaidation.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\bin\Debug\netcoreapp3.1\01.UsernameVaidation.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\bin\Debug\netcoreapp3.1\01.UsernameVaidation.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\bin\Debug\netcoreapp3.1\01.UsernameVaidation.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\obj\Debug\netcoreapp3.1\01.UsernameVaidation.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\obj\Debug\netcoreapp3.1\01.UsernameVaidation.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\obj\Debug\netcoreapp3.1\01.UsernameVaidation.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\obj\Debug\netcoreapp3.1\01.UsernameVaidation.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.UsernameVaidation\obj\Debug\netcoreapp3.1\01.UsernameVaidation.pdb

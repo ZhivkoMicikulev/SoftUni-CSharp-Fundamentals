@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\obj\Debug\netcoreapp3.1\10.SoftuUniExamResult.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\obj\Debug\netcoreapp3.1\10.SoftuUniExamResult.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\obj\Debug\netcoreapp3.1\10.SoftuUniExamResult.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\bin\Debug\netcoreapp3.1\10.SoftuUniExamResult.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\bin\Debug\netcoreapp3.1\10.SoftuUniExamResult.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\bin\Debug\netcoreapp3.1\10.SoftuUniExamResult.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\bin\Debug\netcoreapp3.1\10.SoftuUniExamResult.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\bin\Debug\netcoreapp3.1\10.SoftuUniExamResult.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\bin\Debug\netcoreapp3.1\10.SoftuUniExamResult.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\obj\Debug\netcoreapp3.1\10.SoftuUniExamResult.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\10.SoftuUniExamResult\obj\Debug\netcoreapp3.1\10.SoftuUniExamResult.pdb

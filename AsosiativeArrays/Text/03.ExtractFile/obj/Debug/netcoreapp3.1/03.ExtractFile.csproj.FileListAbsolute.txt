@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.csprojAssemblyReference.cache

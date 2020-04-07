@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\bin\Debug\netcoreapp3.1\1.CountChars.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\bin\Debug\netcoreapp3.1\1.CountChars.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\bin\Debug\netcoreapp3.1\1.CountChars.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\bin\Debug\netcoreapp3.1\1.CountChars.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\bin\Debug\netcoreapp3.1\1.CountChars.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\bin\Debug\netcoreapp3.1\1.CountChars.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\obj\Debug\netcoreapp3.1\1.CountChars.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\obj\Debug\netcoreapp3.1\1.CountChars.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\obj\Debug\netcoreapp3.1\1.CountChars.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\obj\Debug\netcoreapp3.1\1.CountChars.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\AsosiativeArrays\1.CountChars\obj\Debug\netcoreapp3.1\1.CountChars.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\bin\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\01.01.ExtractPersonInformation\obj\Debug\netcoreapp3.1\01.01.ExtractPersonInformation.pdb

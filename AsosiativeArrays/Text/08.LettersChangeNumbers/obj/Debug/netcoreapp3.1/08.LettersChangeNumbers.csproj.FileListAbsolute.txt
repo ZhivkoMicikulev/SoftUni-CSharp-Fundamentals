@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\bin\Debug\netcoreapp3.1\08.LettersChangeNumbers.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\AsosiativeArrays\Text\08.LettersChangeNumbers\obj\Debug\netcoreapp3.1\08.LettersChangeNumbers.pdb
