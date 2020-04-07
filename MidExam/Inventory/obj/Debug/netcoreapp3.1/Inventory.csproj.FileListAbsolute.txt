@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\obj\Debug\netcoreapp3.1\Inventory.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ExamSoftUni\MidExam\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
