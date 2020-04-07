@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\bin\Debug\netcoreapp3.1\TeamWorkProject.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\bin\Debug\netcoreapp3.1\TeamWorkProject.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\bin\Debug\netcoreapp3.1\TeamWorkProject.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\bin\Debug\netcoreapp3.1\TeamWorkProject.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\bin\Debug\netcoreapp3.1\TeamWorkProject.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\bin\Debug\netcoreapp3.1\TeamWorkProject.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\obj\Debug\netcoreapp3.1\TeamWorkProject.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\obj\Debug\netcoreapp3.1\TeamWorkProject.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\obj\Debug\netcoreapp3.1\TeamWorkProject.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\obj\Debug\netcoreapp3.1\TeamWorkProject.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\TeamWorkProject\obj\Debug\netcoreapp3.1\TeamWorkProject.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\bin\Debug\netcoreapp3.1\RandomWowrdLec.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\bin\Debug\netcoreapp3.1\RandomWowrdLec.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\bin\Debug\netcoreapp3.1\RandomWowrdLec.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\bin\Debug\netcoreapp3.1\RandomWowrdLec.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\bin\Debug\netcoreapp3.1\RandomWowrdLec.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\bin\Debug\netcoreapp3.1\RandomWowrdLec.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\obj\Debug\netcoreapp3.1\RandomWowrdLec.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\obj\Debug\netcoreapp3.1\RandomWowrdLec.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\obj\Debug\netcoreapp3.1\RandomWowrdLec.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\obj\Debug\netcoreapp3.1\RandomWowrdLec.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\RandomWowrdLec\obj\Debug\netcoreapp3.1\RandomWowrdLec.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.pdb

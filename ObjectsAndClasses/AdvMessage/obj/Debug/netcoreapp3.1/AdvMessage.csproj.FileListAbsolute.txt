@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\bin\Debug\netcoreapp3.1\AdvMessage.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\bin\Debug\netcoreapp3.1\AdvMessage.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\bin\Debug\netcoreapp3.1\AdvMessage.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\bin\Debug\netcoreapp3.1\AdvMessage.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\bin\Debug\netcoreapp3.1\AdvMessage.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\bin\Debug\netcoreapp3.1\AdvMessage.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\obj\Debug\netcoreapp3.1\AdvMessage.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\obj\Debug\netcoreapp3.1\AdvMessage.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\obj\Debug\netcoreapp3.1\AdvMessage.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\obj\Debug\netcoreapp3.1\AdvMessage.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\AdvMessage\obj\Debug\netcoreapp3.1\AdvMessage.pdb

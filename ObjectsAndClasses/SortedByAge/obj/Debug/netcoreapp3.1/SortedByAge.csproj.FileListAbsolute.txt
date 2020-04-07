@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\bin\Debug\netcoreapp3.1\SortedByAge.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\bin\Debug\netcoreapp3.1\SortedByAge.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\bin\Debug\netcoreapp3.1\SortedByAge.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\bin\Debug\netcoreapp3.1\SortedByAge.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\bin\Debug\netcoreapp3.1\SortedByAge.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\bin\Debug\netcoreapp3.1\SortedByAge.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\obj\Debug\netcoreapp3.1\SortedByAge.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\obj\Debug\netcoreapp3.1\SortedByAge.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\obj\Debug\netcoreapp3.1\SortedByAge.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\obj\Debug\netcoreapp3.1\SortedByAge.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\SortedByAge\obj\Debug\netcoreapp3.1\SortedByAge.pdb

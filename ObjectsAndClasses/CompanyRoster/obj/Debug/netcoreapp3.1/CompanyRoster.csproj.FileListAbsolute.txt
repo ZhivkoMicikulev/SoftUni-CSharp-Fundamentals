@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\ObjectsAndClasses\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.pdb
