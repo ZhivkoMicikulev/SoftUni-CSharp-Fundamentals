@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\bin\Debug\netcoreapp3.1\01.ActivationKey.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\bin\Debug\netcoreapp3.1\01.ActivationKey.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\bin\Debug\netcoreapp3.1\01.ActivationKey.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\bin\Debug\netcoreapp3.1\01.ActivationKey.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\bin\Debug\netcoreapp3.1\01.ActivationKey.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\bin\Debug\netcoreapp3.1\01.ActivationKey.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\obj\Debug\netcoreapp3.1\01.ActivationKey.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\obj\Debug\netcoreapp3.1\01.ActivationKey.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\obj\Debug\netcoreapp3.1\01.ActivationKey.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\01\obj\Debug\netcoreapp3.1\01.ActivationKey.pdb

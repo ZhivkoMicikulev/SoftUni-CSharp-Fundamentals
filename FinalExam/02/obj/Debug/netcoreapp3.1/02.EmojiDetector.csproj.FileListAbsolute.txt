@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\bin\Debug\netcoreapp3.1\02.EmojiDetector.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\bin\Debug\netcoreapp3.1\02.EmojiDetector.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\bin\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\bin\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\obj\Debug\netcoreapp3.1\02.EmojiDetector.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\obj\Debug\netcoreapp3.1\02.EmojiDetector.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\02\obj\Debug\netcoreapp3.1\02.EmojiDetector.pdb

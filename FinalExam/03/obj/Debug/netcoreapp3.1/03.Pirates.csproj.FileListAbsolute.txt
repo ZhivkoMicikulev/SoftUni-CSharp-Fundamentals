@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\bin\Debug\netcoreapp3.1\03.Pirates.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\bin\Debug\netcoreapp3.1\03.Pirates.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\bin\Debug\netcoreapp3.1\03.Pirates.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\bin\Debug\netcoreapp3.1\03.Pirates.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\bin\Debug\netcoreapp3.1\03.Pirates.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\bin\Debug\netcoreapp3.1\03.Pirates.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\obj\Debug\netcoreapp3.1\03.Pirates.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\obj\Debug\netcoreapp3.1\03.Pirates.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\obj\Debug\netcoreapp3.1\03.Pirates.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\obj\Debug\netcoreapp3.1\03.Pirates.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExam\FinalExam\03\obj\Debug\netcoreapp3.1\03.Pirates.pdb
