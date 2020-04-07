@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\bin\Debug\netcoreapp3.1\GiftBox.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\bin\Debug\netcoreapp3.1\GiftBox.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\bin\Debug\netcoreapp3.1\GiftBox.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\bin\Debug\netcoreapp3.1\GiftBox.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\bin\Debug\netcoreapp3.1\GiftBox.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\bin\Debug\netcoreapp3.1\GiftBox.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\obj\Debug\netcoreapp3.1\GiftBox.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\obj\Debug\netcoreapp3.1\GiftBox.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\obj\Debug\netcoreapp3.1\GiftBox.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\obj\Debug\netcoreapp3.1\GiftBox.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\GiftBox\obj\Debug\netcoreapp3.1\GiftBox.pdb

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\obj\Debug\netcoreapp3.1\WeaponSmith.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\obj\Debug\netcoreapp3.1\WeaponSmith.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\obj\Debug\netcoreapp3.1\WeaponSmith.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\bin\Debug\netcoreapp3.1\WeaponSmith.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\bin\Debug\netcoreapp3.1\WeaponSmith.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\bin\Debug\netcoreapp3.1\WeaponSmith.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\bin\Debug\netcoreapp3.1\WeaponSmith.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\bin\Debug\netcoreapp3.1\WeaponSmith.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\bin\Debug\netcoreapp3.1\WeaponSmith.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\obj\Debug\netcoreapp3.1\WeaponSmith.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\WeaponSmith\obj\Debug\netcoreapp3.1\WeaponSmith.pdb

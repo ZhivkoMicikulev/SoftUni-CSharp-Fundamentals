@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\bin\Debug\netcoreapp3.1\TaskPlaner.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\bin\Debug\netcoreapp3.1\TaskPlaner.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\bin\Debug\netcoreapp3.1\TaskPlaner.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\bin\Debug\netcoreapp3.1\TaskPlaner.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\bin\Debug\netcoreapp3.1\TaskPlaner.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\bin\Debug\netcoreapp3.1\TaskPlaner.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\obj\Debug\netcoreapp3.1\TaskPlaner.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\obj\Debug\netcoreapp3.1\TaskPlaner.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\obj\Debug\netcoreapp3.1\TaskPlaner.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\obj\Debug\netcoreapp3.1\TaskPlaner.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\TaskPlaner\obj\Debug\netcoreapp3.1\TaskPlaner.pdb

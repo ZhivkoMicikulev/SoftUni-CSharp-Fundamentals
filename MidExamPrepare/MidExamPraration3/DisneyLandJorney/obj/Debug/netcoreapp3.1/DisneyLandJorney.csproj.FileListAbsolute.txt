@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\bin\Debug\netcoreapp3.1\DisneyLandJorney.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\bin\Debug\netcoreapp3.1\DisneyLandJorney.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\bin\Debug\netcoreapp3.1\DisneyLandJorney.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\bin\Debug\netcoreapp3.1\DisneyLandJorney.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\bin\Debug\netcoreapp3.1\DisneyLandJorney.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\bin\Debug\netcoreapp3.1\DisneyLandJorney.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\obj\Debug\netcoreapp3.1\DisneyLandJorney.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\obj\Debug\netcoreapp3.1\DisneyLandJorney.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\obj\Debug\netcoreapp3.1\DisneyLandJorney.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\obj\Debug\netcoreapp3.1\DisneyLandJorney.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\DisneyLandJorney\obj\Debug\netcoreapp3.1\DisneyLandJorney.pdb

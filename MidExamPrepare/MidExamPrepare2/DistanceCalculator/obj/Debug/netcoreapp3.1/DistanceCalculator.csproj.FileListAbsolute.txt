@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\bin\Debug\netcoreapp3.1\DistanceCalculator.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\bin\Debug\netcoreapp3.1\DistanceCalculator.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\bin\Debug\netcoreapp3.1\DistanceCalculator.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\bin\Debug\netcoreapp3.1\DistanceCalculator.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\bin\Debug\netcoreapp3.1\DistanceCalculator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\bin\Debug\netcoreapp3.1\DistanceCalculator.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\obj\Debug\netcoreapp3.1\DistanceCalculator.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\obj\Debug\netcoreapp3.1\DistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\obj\Debug\netcoreapp3.1\DistanceCalculator.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\obj\Debug\netcoreapp3.1\DistanceCalculator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\DistanceCalculator\obj\Debug\netcoreapp3.1\DistanceCalculator.pdb

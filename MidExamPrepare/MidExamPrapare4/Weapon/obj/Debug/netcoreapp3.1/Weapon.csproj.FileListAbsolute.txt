@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\bin\Debug\netcoreapp3.1\Weapon.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\bin\Debug\netcoreapp3.1\Weapon.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\bin\Debug\netcoreapp3.1\Weapon.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\bin\Debug\netcoreapp3.1\Weapon.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\bin\Debug\netcoreapp3.1\Weapon.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\bin\Debug\netcoreapp3.1\Weapon.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\obj\Debug\netcoreapp3.1\Weapon.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\obj\Debug\netcoreapp3.1\Weapon.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\obj\Debug\netcoreapp3.1\Weapon.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\obj\Debug\netcoreapp3.1\Weapon.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrapare4\Weapon\obj\Debug\netcoreapp3.1\Weapon.csprojAssemblyReference.cache

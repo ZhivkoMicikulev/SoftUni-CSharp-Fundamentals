@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\bin\Debug\netcoreapp3.1\FoggySqad.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\bin\Debug\netcoreapp3.1\FoggySqad.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\bin\Debug\netcoreapp3.1\FoggySqad.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\bin\Debug\netcoreapp3.1\FoggySqad.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\bin\Debug\netcoreapp3.1\FoggySqad.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\bin\Debug\netcoreapp3.1\FoggySqad.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\obj\Debug\netcoreapp3.1\FoggySqad.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\obj\Debug\netcoreapp3.1\FoggySqad.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\obj\Debug\netcoreapp3.1\FoggySqad.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\obj\Debug\netcoreapp3.1\FoggySqad.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare\FoggySqad\obj\Debug\netcoreapp3.1\FoggySqad.csprojAssemblyReference.cache

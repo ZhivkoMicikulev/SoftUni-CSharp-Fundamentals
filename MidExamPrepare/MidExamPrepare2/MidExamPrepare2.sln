@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistanceCalculator", "DistanceCalculator\DistanceCalculator.csproj", "{59471F44-AB01-4594-8B60-4DE237376630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberArray", "NumberArray\NumberArray.csproj", "{1D3D74EC-CEB4-4713-81CE-73450CEC15AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList", "ContactList\ContactList.csproj", "{769754BF-3E97-41A8-9E26-2F4A876EE3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59471F44-AB01-4594-8B60-4DE237376630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59471F44-AB01-4594-8B60-4DE237376630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59471F44-AB01-4594-8B60-4DE237376630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59471F44-AB01-4594-8B60-4DE237376630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3D74EC-CEB4-4713-81CE-73450CEC15AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3D74EC-CEB4-4713-81CE-73450CEC15AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3D74EC-CEB4-4713-81CE-73450CEC15AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3D74EC-CEB4-4713-81CE-73450CEC15AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769754BF-3E97-41A8-9E26-2F4A876EE3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769754BF-3E97-41A8-9E26-2F4A876EE3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769754BF-3E97-41A8-9E26-2F4A876EE3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769754BF-3E97-41A8-9E26-2F4A876EE3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAEE094C-7448-490E-B58E-3C012926CA63}
+	EndGlobalSection
+EndGlobal

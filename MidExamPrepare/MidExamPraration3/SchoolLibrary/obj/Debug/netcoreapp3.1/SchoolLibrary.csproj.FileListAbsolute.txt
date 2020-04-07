@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.pdb

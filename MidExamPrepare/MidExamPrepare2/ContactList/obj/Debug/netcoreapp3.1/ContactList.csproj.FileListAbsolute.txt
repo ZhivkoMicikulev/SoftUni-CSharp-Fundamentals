@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\bin\Debug\netcoreapp3.1\ContactList.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\bin\Debug\netcoreapp3.1\ContactList.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\bin\Debug\netcoreapp3.1\ContactList.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\bin\Debug\netcoreapp3.1\ContactList.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\bin\Debug\netcoreapp3.1\ContactList.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\obj\Debug\netcoreapp3.1\ContactList.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\obj\Debug\netcoreapp3.1\ContactList.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\obj\Debug\netcoreapp3.1\ContactList.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPrepare2\ContactList\obj\Debug\netcoreapp3.1\ContactList.pdb

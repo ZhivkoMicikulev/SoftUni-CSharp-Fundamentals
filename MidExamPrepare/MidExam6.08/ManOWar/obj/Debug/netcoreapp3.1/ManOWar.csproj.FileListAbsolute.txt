@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\bin\Debug\netcoreapp3.1\ManOWar.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\ManOWar\obj\Debug\netcoreapp3.1\ManOWar.pdb

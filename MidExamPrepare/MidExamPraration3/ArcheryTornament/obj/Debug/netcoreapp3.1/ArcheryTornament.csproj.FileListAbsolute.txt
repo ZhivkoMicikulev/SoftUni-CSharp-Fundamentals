@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\bin\Debug\netcoreapp3.1\ArcheryTornament.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\bin\Debug\netcoreapp3.1\ArcheryTornament.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\bin\Debug\netcoreapp3.1\ArcheryTornament.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\bin\Debug\netcoreapp3.1\ArcheryTornament.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\bin\Debug\netcoreapp3.1\ArcheryTornament.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\bin\Debug\netcoreapp3.1\ArcheryTornament.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\obj\Debug\netcoreapp3.1\ArcheryTornament.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\obj\Debug\netcoreapp3.1\ArcheryTornament.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\obj\Debug\netcoreapp3.1\ArcheryTornament.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\obj\Debug\netcoreapp3.1\ArcheryTornament.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExamPraration3\ArcheryTornament\obj\Debug\netcoreapp3.1\ArcheryTornament.pdb

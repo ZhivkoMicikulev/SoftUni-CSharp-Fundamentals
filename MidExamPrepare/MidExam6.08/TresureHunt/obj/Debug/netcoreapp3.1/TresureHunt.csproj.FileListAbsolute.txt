@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\bin\Debug\netcoreapp3.1\TresureHunt.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\bin\Debug\netcoreapp3.1\TresureHunt.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\bin\Debug\netcoreapp3.1\TresureHunt.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\bin\Debug\netcoreapp3.1\TresureHunt.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\bin\Debug\netcoreapp3.1\TresureHunt.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\bin\Debug\netcoreapp3.1\TresureHunt.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\obj\Debug\netcoreapp3.1\TresureHunt.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\obj\Debug\netcoreapp3.1\TresureHunt.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\obj\Debug\netcoreapp3.1\TresureHunt.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\obj\Debug\netcoreapp3.1\TresureHunt.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\MidExamPrepare\MidExam6.08\TresureHunt\obj\Debug\netcoreapp3.1\TresureHunt.pdb
