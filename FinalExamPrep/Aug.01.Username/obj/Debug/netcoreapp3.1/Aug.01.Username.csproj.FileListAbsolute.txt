@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\bin\Debug\netcoreapp3.1\Aug.01.Username.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\bin\Debug\netcoreapp3.1\Aug.01.Username.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\bin\Debug\netcoreapp3.1\Aug.01.Username.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\bin\Debug\netcoreapp3.1\Aug.01.Username.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\bin\Debug\netcoreapp3.1\Aug.01.Username.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\bin\Debug\netcoreapp3.1\Aug.01.Username.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\obj\Debug\netcoreapp3.1\Aug.01.Username.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\obj\Debug\netcoreapp3.1\Aug.01.Username.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\obj\Debug\netcoreapp3.1\Aug.01.Username.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.01.Username\obj\Debug\netcoreapp3.1\Aug.01.Username.pdb

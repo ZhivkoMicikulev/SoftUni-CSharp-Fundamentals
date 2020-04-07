@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.03.BattleManager\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.03.BattleManager.pdb

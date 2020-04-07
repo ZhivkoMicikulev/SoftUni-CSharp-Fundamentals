@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr02.02.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr02.02.MessageEncrypter.pdb

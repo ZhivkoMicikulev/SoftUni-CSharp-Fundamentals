@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\obj\Debug\netcoreapp3.1\DecGr1.02.Registration.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\obj\Debug\netcoreapp3.1\DecGr1.02.Registration.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\obj\Debug\netcoreapp3.1\DecGr1.02.Registration.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\obj\Debug\netcoreapp3.1\DecGr1.02.Registration.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\obj\Debug\netcoreapp3.1\DecGr1.02.Registration.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\bin\Debug\netcoreapp3.1\DecGr1.02.Registration.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\bin\Debug\netcoreapp3.1\DecGr1.02.Registration.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\bin\Debug\netcoreapp3.1\DecGr1.02.Registration.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\bin\Debug\netcoreapp3.1\DecGr1.02.Registration.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\bin\Debug\netcoreapp3.1\DecGr1.02.Registration.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.02.Registration\bin\Debug\netcoreapp3.1\DecGr1.02.Registration.pdb

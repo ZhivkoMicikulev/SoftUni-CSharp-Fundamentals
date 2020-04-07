@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\bin\Debug\netcoreapp3.1\02.BossRush.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\02.BossRush\obj\Debug\netcoreapp3.1\02.BossRush.pdb

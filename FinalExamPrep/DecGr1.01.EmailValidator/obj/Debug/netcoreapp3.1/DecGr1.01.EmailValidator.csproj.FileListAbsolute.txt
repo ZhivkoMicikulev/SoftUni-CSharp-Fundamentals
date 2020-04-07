@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\bin\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\bin\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\bin\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\bin\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\bin\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\bin\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\obj\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\obj\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\obj\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\obj\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\DecGr1.01.EmailValidator\obj\Debug\netcoreapp3.1\DecGr1.01.EmailValidator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.02.MessageDecrypter\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.02.MessageDecrypter.pdb

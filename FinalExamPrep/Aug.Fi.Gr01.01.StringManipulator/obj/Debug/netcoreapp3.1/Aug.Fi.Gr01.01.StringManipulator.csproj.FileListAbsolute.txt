@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\bin\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Aug.Fi.Gr01.01.StringManipulator\obj\Debug\netcoreapp3.1\Aug.Fi.Gr01.01.StringManipulator.pdb

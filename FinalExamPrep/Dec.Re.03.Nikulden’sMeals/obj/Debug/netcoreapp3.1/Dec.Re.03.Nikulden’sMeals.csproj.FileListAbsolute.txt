@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\bin\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\bin\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\bin\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\bin\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\bin\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\bin\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\obj\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\obj\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\obj\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\obj\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\FinalExamPrep\FinalExamPrep\Dec.Re.03.Nikulden’sMeals\obj\Debug\netcoreapp3.1\Dec.Re.03.Nikulden’sMeals.pdb
