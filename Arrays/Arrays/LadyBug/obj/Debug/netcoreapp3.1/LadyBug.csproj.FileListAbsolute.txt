@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.pdb

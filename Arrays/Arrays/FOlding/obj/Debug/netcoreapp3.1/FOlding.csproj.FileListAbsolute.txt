@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\bin\Debug\netcoreapp3.1\FOlding.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\bin\Debug\netcoreapp3.1\FOlding.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\bin\Debug\netcoreapp3.1\FOlding.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\bin\Debug\netcoreapp3.1\FOlding.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\bin\Debug\netcoreapp3.1\FOlding.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\bin\Debug\netcoreapp3.1\FOlding.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\obj\Debug\netcoreapp3.1\FOlding.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\obj\Debug\netcoreapp3.1\FOlding.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\obj\Debug\netcoreapp3.1\FOlding.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\obj\Debug\netcoreapp3.1\FOlding.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\FOlding\obj\Debug\netcoreapp3.1\FOlding.csprojAssemblyReference.cache

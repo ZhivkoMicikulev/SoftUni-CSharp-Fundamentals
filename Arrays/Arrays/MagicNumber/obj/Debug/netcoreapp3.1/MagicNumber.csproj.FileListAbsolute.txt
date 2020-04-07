@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\bin\Debug\netcoreapp3.1\MagicNumber.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MagicNumber\obj\Debug\netcoreapp3.1\MagicNumber.pdb

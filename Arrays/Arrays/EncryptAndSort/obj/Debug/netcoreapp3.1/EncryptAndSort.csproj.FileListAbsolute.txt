@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\bin\Debug\netcoreapp3.1\EncryptAndSort.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\bin\Debug\netcoreapp3.1\EncryptAndSort.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\bin\Debug\netcoreapp3.1\EncryptAndSort.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\bin\Debug\netcoreapp3.1\EncryptAndSort.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\bin\Debug\netcoreapp3.1\EncryptAndSort.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\bin\Debug\netcoreapp3.1\EncryptAndSort.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\obj\Debug\netcoreapp3.1\EncryptAndSort.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\obj\Debug\netcoreapp3.1\EncryptAndSort.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\obj\Debug\netcoreapp3.1\EncryptAndSort.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\EncryptAndSort\obj\Debug\netcoreapp3.1\EncryptAndSort.pdb

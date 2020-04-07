@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\bin\Debug\netcoreapp3.1\ZigZagArray.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\bin\Debug\netcoreapp3.1\ZigZagArray.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\bin\Debug\netcoreapp3.1\ZigZagArray.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\bin\Debug\netcoreapp3.1\ZigZagArray.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\bin\Debug\netcoreapp3.1\ZigZagArray.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\bin\Debug\netcoreapp3.1\ZigZagArray.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\obj\Debug\netcoreapp3.1\ZigZagArray.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\obj\Debug\netcoreapp3.1\ZigZagArray.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\obj\Debug\netcoreapp3.1\ZigZagArray.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\obj\Debug\netcoreapp3.1\ZigZagArray.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ZigZagArray\obj\Debug\netcoreapp3.1\ZigZagArray.pdb

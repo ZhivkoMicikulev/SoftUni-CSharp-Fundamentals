@@ -1,0 +1,10 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\bin\Debug\netcoreapp3.1\ArrayRottation.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\bin\Debug\netcoreapp3.1\ArrayRottation.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\bin\Debug\netcoreapp3.1\ArrayRottation.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\bin\Debug\netcoreapp3.1\ArrayRottation.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\bin\Debug\netcoreapp3.1\ArrayRottation.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\bin\Debug\netcoreapp3.1\ArrayRottation.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\obj\Debug\netcoreapp3.1\ArrayRottation.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\obj\Debug\netcoreapp3.1\ArrayRottation.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\obj\Debug\netcoreapp3.1\ArrayRottation.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\ArrayRottation\obj\Debug\netcoreapp3.1\ArrayRottation.pdb

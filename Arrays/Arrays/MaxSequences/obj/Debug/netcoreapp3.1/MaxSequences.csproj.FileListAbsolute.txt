@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\bin\Debug\netcoreapp3.1\MaxSequences.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\bin\Debug\netcoreapp3.1\MaxSequences.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\bin\Debug\netcoreapp3.1\MaxSequences.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\bin\Debug\netcoreapp3.1\MaxSequences.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\bin\Debug\netcoreapp3.1\MaxSequences.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\bin\Debug\netcoreapp3.1\MaxSequences.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\obj\Debug\netcoreapp3.1\MaxSequences.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\obj\Debug\netcoreapp3.1\MaxSequences.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\obj\Debug\netcoreapp3.1\MaxSequences.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\obj\Debug\netcoreapp3.1\MaxSequences.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\MaxSequences\obj\Debug\netcoreapp3.1\MaxSequences.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.exe
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.deps.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.runtimeconfig.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.runtimeconfig.dev.json
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.pdb
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.csprojAssemblyReference.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.AssemblyInfo.cs
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.dll
+C:\Users\Живко\Desktop\СофтУни\C#\C# Fundamentals\Arrays\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.pdb
